@@ -1,0 +1,7 @@
+ShanghaiTech/
+shanghaitech_with_people_density_map/
+outputs/best_model.pth
+__pycache__/
+*.pyc
+.vscode/
+demo_result_*.png
