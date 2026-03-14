@@ -19,6 +19,7 @@ Trained for 30 epochs on Google Colab (NVIDIA T4 GPU).
 ## Sample Output
 
 ![Prediction Sample](outputs/prediction_10.png)
+![Alt text](compare_result.png)
  
 ---
 
